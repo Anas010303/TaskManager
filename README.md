@@ -1,7 +1,5 @@
 ## TaskMaster_App
 
-![Image Description](images/banner.png)
-
 "TaskMaster" is a powerful task management Android mobile application developed using 
 the Kotlin language. This app can add tasks with different levels of importance like 'Important', 'To 
 Do', or 'Meeting.' Each task can be marked as 'Pending', 'In Progress', or 'Done.' The app shows your 
